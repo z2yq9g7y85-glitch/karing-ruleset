@@ -3,7 +3,7 @@ adguard_dns_filter.srs
 oisd_full.srs
 steven_blacks_list.srs
 hagezi_multinormal.srs
-peter_lowe_list.srs
+peter_lowe_list.srs 
 hagezi_pro.srs
 hagezi_ultimate.srs
 dan_pollocks_list.srs
